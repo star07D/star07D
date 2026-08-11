@@ -1,141 +1,175 @@
 <div align="center">
 
-# Hi there, I'm Dhruv Patel 👋
+<img src="https://github.com/star07D.png" width="130" alt="Dhruv Patel" style="border-radius: 50%;" />
 
-### Full-Stack Developer | JavaScript • TypeScript • React • Node.js
+# Hi, I'm Dhruv Patel 👋
 
-📍 Germany 🇩🇪 • MSc IT Project Management
+### Software Developer | Full-Stack & Backend Development
 
-Building modern web applications with clean architecture, scalable backend systems, and intuitive user experiences.
+<p>
+  <a href="https://linkedin.com/in/dhruv-patel69">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dhruvpatel6530@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-Currently focused on becoming a production-ready Software Engineer while building real-world projects.
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhruv-patel69)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge)]
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:pateldhruv6422@gmail.com)
+📍 Berlin, Germany &nbsp;•&nbsp; 🚀 Open to relocation within Germany  
+🎓 MSc Graduate in Information Technology Management  
+💼 Open to Junior Software Developer, Full-Stack, Backend, and Frontend roles
 
 </div>
 
 ---
 
-# 🚀 About Me
+## About Me
 
-I'm a software developer who enjoys turning ideas into practical, scalable applications.
+I am a software developer based in Berlin with professional experience in backend and full-stack development.
 
-My current focus is the modern JavaScript ecosystem, where I'm building full-stack projects using React, Node.js, NestJS, PostgreSQL, and TypeScript.
+My strongest focus is the JavaScript and TypeScript ecosystem: building responsive frontend applications, Node.js backend services, REST APIs, authentication flows, and database-connected applications. I enjoy translating practical requirements into clean, reliable software.
 
-I'm continuously improving my engineering skills through hands-on development, writing clean code, and learning industry best practices.
+I am an MSc graduate in Information Technology Management and am currently seeking an opportunity to contribute to a product-focused engineering team while continuing to grow as a software developer.
 
----
+## What I Work With
 
-# 🛠 Tech Stack
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS" />
 </p>
+
+- Responsive user interfaces
+- React and Next.js applications
+- React Native experience
+- Client-side data management
+
+</td>
+<td valign="top" width="50%">
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" alt="Node.js, NestJS, Express" />
 </p>
 
-### Database
+- Node.js and NestJS services
+- REST API development
+- Authentication and validation
+- Error handling and structured API flows
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### Data & Services
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" alt="PostgreSQL, MongoDB, Firebase" />
 </p>
 
-### Tools
+- PostgreSQL
+- MongoDB
+- Firebase Firestore and Functions
+- Database integration and persistence
+
+</td>
+<td valign="top" width="50%">
+
+### Tools & Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode" alt="Git, GitHub, Postman, Docker, VS Code" />
 </p>
 
----
-
-# 💼 Featured Projects
-
-## 🤖 AI Job Tracker
-
-A full-stack job application management platform designed to help developers organize their job search efficiently.
-
-### Features
-
-- JWT Authentication
-- Secure User Accounts
-- Job CRUD Operations
-- Search & Filtering
-- Application Status Tracking
-- PostgreSQL Database
-- REST API
-- Responsive UI
-
-**Tech Stack**
-
-React • NestJS • PostgreSQL • Prisma • TypeScript • JWT
-
----
-
-## 📈 Current Focus
-
-- Building production-ready Full-Stack applications
-- Backend architecture with NestJS
-- Advanced TypeScript
-- PostgreSQL & Prisma
+- Git and GitHub
+- Postman API testing
 - Docker
-- CI/CD
-- System Design
-- Clean Architecture
+- Testing, debugging, Agile, and Scrum
+- CI/CD fundamentals
 
----
+</td>
+</tr>
+</table>
 
-# 🎯 2026 Goals
+## Additional Technologies
 
-- Build 6+ production-quality projects
-- Master React & Node.js
-- Learn Docker & Kubernetes fundamentals
-- Learn AWS cloud deployment
-- Strengthen System Design knowledge
-- Contribute to Open Source
-- Land a Full-Stack Software Engineer role in Germany 🇩🇪
+`Java` · `Kotlin` · `Dart` · `PHP` · `React Native` · `n8n` · `Webhooks` · `Workflow Automation` · `AI-Assisted Workflows`
 
----
+## Professional Experience
 
-# 🌱 Currently Learning
+### Backend & Full-Stack Developer — Chariot Technologies
 
-- Advanced React Patterns
-- NestJS Best Practices
-- Docker
-- CI/CD Pipelines
-- Testing with Jest
-- Software Architecture
-- Performance Optimization
+**Jan 2023 – May 2024**
 
----
+- Developed Node.js and TypeScript backend services and REST APIs supporting mobile application workflows.
+- Implemented validation, error handling, and structured API flows.
+- Collaborated in an Agile, Git-based environment to troubleshoot defects and deliver iterative features.
 
-# 🤝 Let's Connect
+### Software Developer — Microtel Netlinks
 
-📧 **Email**
+**Aug 2022 – Jan 2023**
 
-**pateldhruv6422@gmail.com**
+- Built full-stack application features using JavaScript, PHP, and Java.
+- Connected frontend interfaces with backend services for business requirements.
+- Developed server-side functionality and REST API integrations.
+- Tested, debugged, and resolved issues to improve software stability.
 
-💼 **LinkedIn**
+## Featured Projects
 
-https://linkedin.com/in/dhruv-patel69
+### 🤖 AI Job Application Management System
 
-⭐ If you like my work, feel free to star my repositories and connect with me!
+A full-stack job-application tracker built to organize applications and recruitment workflows in one centralized dashboard.
 
----
+**Tech Stack**  
+`TypeScript` · `Next.js` · `Node.js` · `NestJS` · `PostgreSQL` · `REST APIs`
+
+**Key Features**
+
+- Authentication and protected application workflows
+- Job-management CRUD functionality
+- Validation and PostgreSQL data persistence
+- Centralized application-status tracking
+- Responsive frontend views integrated with backend APIs
+
+### 📈 Expense Tracker Web Application
+
+A responsive application for tracking expenses and visualizing financial trends.
+
+**Tech Stack**  
+`JavaScript` · `HTML` · `CSS` · `Chart.js`
+
+**Key Features**
+
+- Dynamic filtering and client-side data management
+- Interactive Chart.js dashboards
+- Financial-trend visualizations
+- Responsive user experience
+
+## Education
+
+🎓 **MSc, Information Technology Management**  
+Berlin School of Business and Innovation, Berlin, Germany  
+Completed April 2026
+
+🎓 **Bachelor of Computer Applications**  
+2023
+
+## Let's Connect
+
+<p>
+  <a href="https://linkedin.com/in/dhruv-patel69">LinkedIn</a> ·
+  <a href="https://github.com/star07D">GitHub</a> ·
+  <a href="mailto:dhruvpatel6530@gmail.com">Email</a>
+</p>
 
 <div align="center">
 
-### Thanks for visiting! 🚀
-
-*"Great software is built one commit at a time."*
+*Building practical software, one feature at a time.*
 
 </div>
