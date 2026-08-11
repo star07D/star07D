@@ -94,20 +94,6 @@ React • NestJS • PostgreSQL • Prisma • TypeScript • JWT
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=star07D&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=star07D&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=star07D&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 # 🎯 2026 Goals
 
 - Build 6+ production-quality projects
