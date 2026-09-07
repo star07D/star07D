@@ -17,7 +17,7 @@
 
 📍 Berlin, Germany &nbsp;•&nbsp; 🚀 Open to relocation within Germany  
 🎓 MSc Graduate in Information Technology Management  
-💼 Open to Junior Software Developer, Full-Stack, Backend, and Frontend roles
+💼 Open to Junior–Mid Software Developer, Full-Stack, Backend, and Frontend roles
 
 </div>
 
@@ -99,7 +99,7 @@ I am an MSc graduate in Information Technology Management and am currently seeki
 
 ## Additional Technologies
 
-`Java` · `Kotlin` · `Dart` · `PHP` · `React Native` · `n8n` · `Webhooks` · `Workflow Automation` · `AI-Assisted Workflows`
+`Java` · `Kotlin` · `Dart` · `PHP` · `React Native` · `n8n` · `Webhooks` · `Workflow Automation`
 
 ## Professional Experience
 
@@ -113,7 +113,7 @@ I am an MSc graduate in Information Technology Management and am currently seeki
 
 ### Software Developer — Microtel Netlinks
 
-**Aug 2022 – Jan 2023**
+**Aug 2022 – Jan 2023** *(final year of BCA)*
 
 - Built full-stack application features using JavaScript, PHP, and Java.
 - Connected frontend interfaces with backend services for business requirements.
@@ -137,6 +137,8 @@ A full-stack job-application tracker built to organize applications and recruitm
 - Centralized application-status tracking
 - Responsive frontend views integrated with backend APIs
 
+**Links** [Code](https://github.com/star07D/ai-job-tracker) · [Live Demo](https://ai-job-tracker-frontend-opal.vercel.app)
+
 ### 📈 Expense Tracker Web Application
 
 A responsive application for tracking expenses and visualizing financial trends.
@@ -151,14 +153,16 @@ A responsive application for tracking expenses and visualizing financial trends.
 - Financial-trend visualizations
 - Responsive user experience
 
+**Links** [Code](https://github.com/star07D/expense-tracker-app)
+
 ## Education
 
 🎓 **MSc, Information Technology Management**  
 Berlin School of Business and Innovation, Berlin, Germany  
-Completed April 2026
+June 2024 – April 2026
 
 🎓 **Bachelor of Computer Applications**  
-2023
+Completed February 2023
 
 ## Let's Connect
 
