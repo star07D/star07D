@@ -13,8 +13,8 @@
   <a href="mailto:dhruvpatel6530@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/star07D/ai-job-tracker">
-    <img src="https://img.shields.io/badge/Latest%20Project-ai--job--tracker-181717?style=for-the-badge&logo=github&logoColor=white" alt="Latest Project" />
+  <a href="https://dad-of-diamonds.vercel.app">
+    <img src="https://img.shields.io/badge/Latest%20Project-dad--of--diamonds-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Latest Project" />
   </a>
 </p>
 
@@ -77,6 +77,14 @@ MSc graduate in Information Technology Management, currently looking to bring th
 <br/>
 
 ## Projects
+
+### 💎 Dad of Diamonds
+
+Full-stack e-commerce storefront for a private diamond and fine jewellery collection — product catalogue, cart, wishlist, and comparison tools backed by a headless CMS, with real Stripe checkout and Resend-powered enquiries.
+
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,vercel" alt="TypeScript, Next.js, React, Tailwind CSS, Vercel" /> `Sanity` · `Stripe` · `Resend`
+
+[**Code**](https://github.com/star07D/dad-of-diamonds) · [**Live Demo**](https://dad-of-diamonds.vercel.app)
 
 ### 🤖 AI Job Application Management System
 
