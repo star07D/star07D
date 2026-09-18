@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/star07D.png" width="120" alt="Dhruv Patel" style="border-radius: 50%;" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:181717&height=180&section=header&text=Dhruv%20Patel&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20%26%20Backend%20Developer%20%E2%80%94%20JavaScript%20%2F%20TypeScript&descAlignY=58&descSize=18" alt="Dhruv Patel — Full-Stack & Backend Developer" />
 
-# Dhruv Patel
-
-### Full-Stack & Backend Developer — JavaScript / TypeScript
+<p>
+  <img src="https://img.shields.io/badge/📍_Berlin,_Germany-2b2b2b?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/🇩🇪_Open_to_relocation-2b2b2b?style=flat-square" alt="Open to relocation" />
+  <img src="https://img.shields.io/badge/💼_Open_to_Junior–Mid_roles-2b2b2b?style=flat-square" alt="Open to roles" />
+</p>
 
 <p>
   <a href="https://linkedin.com/in/dhruv-patel69">
@@ -17,8 +19,6 @@
     <img src="https://img.shields.io/badge/Latest%20Project-dad--of--diamonds-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Latest Project" />
   </a>
 </p>
-
-📍 Berlin, Germany · Open to relocation within Germany 🇩🇪 · 💼 Open to Junior–Mid Software Developer roles
 
 </div>
 
@@ -53,6 +53,15 @@ MSc graduate in Information Technology Management, currently looking to bring th
 **Also working with**
 <br/>
 <img src="https://skillicons.dev/icons?i=java,kotlin,dart,php" alt="Java, Kotlin, Dart, PHP" /> · `n8n` · `Webhooks` · Agile/Scrum · CI/CD fundamentals
+
+<br/>
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=star07D&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dhruv's GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=star07D&theme=tokyonight&hide_border=true" alt="Dhruv's GitHub streak" />
+</p>
 
 <br/>
 
