@@ -4,61 +4,74 @@
 
 # Dhruv Patel
 
-### Full-Stack & Backend Developer — JavaScript / TypeScript
+```bash
+$ whoami
+> Full-Stack & Backend Developer — JavaScript / TypeScript
+> Based in Berlin, Germany 🇩🇪 — open to relocation within Germany
+> Open to Junior–Mid Software Developer roles
+```
 
 <p>
   <a href="https://linkedin.com/in/dhruv-patel69">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=000000" alt="LinkedIn" />
   </a>
   <a href="mailto:dhruvpatel6530@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=000000" alt="Email" />
   </a>
   <a href="https://dad-of-diamonds.vercel.app">
-    <img src="https://img.shields.io/badge/Latest%20Project-dad--of--diamonds-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Latest Project" />
+    <img src="https://img.shields.io/badge/Live-Dad%20of%20Diamonds-000000?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=000000" alt="Latest Project" />
   </a>
 </p>
-
-📍 Berlin, Germany · Open to relocation within Germany 🇩🇪 · 💼 Open to Junior–Mid Software Developer roles
 
 </div>
 
 <br/>
 
-## About
+## `$ cat about.ts`
 
-Full-stack developer based in Berlin, focused on the JavaScript/TypeScript ecosystem — React and Next.js on the frontend, Node.js and NestJS on the backend. I build REST APIs, authentication flows, and database-backed applications, and translate practical requirements into clean, maintainable software.
-
-MSc graduate in Information Technology Management, currently looking to bring that experience to a product-focused engineering team in Germany.
+```ts
+const dhruv = {
+  role: "Full-Stack & Backend Developer",
+  ecosystem: "JavaScript / TypeScript",
+  frontend: ["React", "Next.js"],
+  backend: ["Node.js", "NestJS"],
+  builds: ["REST APIs", "auth flows", "database-backed applications"],
+  approach: "turn practical requirements into clean, maintainable software",
+  education: "MSc, Information Technology Management",
+  location: "Berlin, Germany 🇩🇪",
+  openTo: "product-focused engineering teams in Germany",
+};
+```
 
 <br/>
 
-## Tech Stack
+## `$ ls tech-stack/`
 
-**Frontend**
+**frontend/**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS" />
 
-**Backend**
+**backend/**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" alt="Node.js, NestJS, Express" />
 
-**Data & Services**
+**data-and-services/**
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" alt="PostgreSQL, MongoDB, Firebase" />
 
-**Tools**
+**tools/**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" alt="Git, GitHub, Docker, Postman, VS Code" />
 
-**Also working with**
+**also-exploring/**
 <br/>
 <img src="https://skillicons.dev/icons?i=java,kotlin,dart,php" alt="Java, Kotlin, Dart, PHP" /> · `n8n` · `Webhooks` · Agile/Scrum · CI/CD fundamentals
 
 <br/>
 
-## Experience
+## `$ git log --oneline experience`
 
-**Backend & Full-Stack Developer** · Chariot Technologies
+**Backend & Full-Stack Developer** · `Chariot Technologies`
 <br/>
 *Jan 2023 – May 2024*
 
@@ -66,7 +79,7 @@ MSc graduate in Information Technology Management, currently looking to bring th
 - Implemented validation, error handling, and structured API flows
 - Collaborated in an Agile, Git-based environment to troubleshoot defects and deliver iterative features
 
-**Software Developer** · Microtel Netlinks
+**Software Developer** · `Microtel Netlinks`
 <br/>
 *Aug 2022 – Jan 2023 (final year of BCA)*
 
@@ -76,19 +89,25 @@ MSc graduate in Information Technology Management, currently looking to bring th
 
 <br/>
 
-## Projects
+## `$ ls projects/`
 
 ### 💎 Dad of Diamonds
 
-Full-stack e-commerce storefront for a private diamond and fine jewellery collection — product catalogue, cart, wishlist, and comparison tools backed by a headless CMS, with real Stripe checkout and Resend-powered enquiries.
+`Live` · `Next.js 16` · `React 19` · `Stripe` · `Sanity` · `Resend`
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,vercel" alt="TypeScript, Next.js, React, Tailwind CSS, Vercel" /> `Sanity` · `Stripe` · `Resend`
+Full-stack e-commerce storefront for a private diamond & fine jewellery collection. Real Stripe checkout, an embedded Sanity CMS (12 pieces seeded, editable with no code), and a full shopping layer — wishlist, side-by-side comparison (up to 3 pieces), live search, sort by price/carat, a ring-size guide, and a plain-English "4 Cs" diamond guide. Every product page carries schema.org structured data for Google rich results, and the whole site runs on a hand-built CSS motion layer — scroll reveals, a cursor-tracking loupe, self-drawing diamond marks — no animation library.
+
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,vercel" alt="TypeScript, Next.js, React, Tailwind CSS, Vercel" />
 
 [**Code**](https://github.com/star07D/dad-of-diamonds) · [**Live Demo**](https://dad-of-diamonds.vercel.app)
 
-### 🤖 AI Job Application Management System
+### 🧭 Rolio — AI Job Tracker
 
-Full-stack job-application tracker that centralizes recruitment workflows into one dashboard — authentication, CRUD job management, and status tracking backed by PostgreSQL.
+`Live` · `NestJS 11` · `Next.js 16` · `Prisma` · `Google Gemini`
+
+A job-application tracker: list **and** kanban views, freeform tags, an archive, a pipeline overview with per-stage stats, follow-up reminders with an optional daily email digest, staleness flags on applications gone quiet, and a public read-only share link for your pipeline. Two AI-assisted features run on Gemini's free tier — interview prep generated per role, and autofilling a new application straight from a pasted job description.
+
+Auth uses short-lived in-memory access tokens plus a rotating refresh token in an httpOnly cookie — never `localStorage` — with optional Google sign-in. After shipping the Google OAuth flow, I ran a security review against my own diff and fixed three real issues it surfaced: an unverified-email account-linking bug, a missing OAuth `state` parameter (login CSRF), and an overly broad CORS rule that only became exploitable once the auth cookie existed.
 
 <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,nestjs,postgres" alt="TypeScript, Next.js, Node.js, NestJS, PostgreSQL" />
 
@@ -104,7 +123,7 @@ Responsive expense tracker with dynamic filtering and interactive Chart.js dashb
 
 <br/>
 
-## Education
+## `$ cat education.log`
 
 🎓 **MSc, Information Technology Management**
 <br/>
@@ -118,17 +137,17 @@ Completed February 2023
 
 <div align="center">
 
-## Let's Connect
+## `$ whoami --contact`
 
 <p>
   <a href="https://linkedin.com/in/dhruv-patel69">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=39FF14" alt="LinkedIn" />
   </a>
   <a href="https://github.com/star07D">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=39FF14" alt="GitHub" />
   </a>
   <a href="mailto:dhruvpatel6530@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=39FF14" alt="Email" />
   </a>
 </p>
 
